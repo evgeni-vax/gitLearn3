@@ -1,4 +1,4 @@
-## Summary
+## Summary1
 
 This Pull Request adds an automated Playwright test for the MindBridge learner registration happy path.
 
